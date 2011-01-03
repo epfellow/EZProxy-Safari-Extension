@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>Extension Updates</key>
+   <array>
+     <dict>
+       <key>CFBundleIdentifier</key>
+       <string>com.epfellow.safari.ezproxy</string>
+       <key>Developer Identifier</key>
+       <string>23X2NLP4LG</string>
+       <key>CFBundleVersion</key>
+       <string>2</string>
+       <key>CFBundleShortVersionString</key>
+       <string>1.1</string>
+       <key>URL</key>
+	<string>http://dl.dropbox.com/u/127753/Hosted/Ezproxy.safariextension/Ezproxy.safariextz</string>
+     </dict>
+   </array>
+</dict>
+</plist>

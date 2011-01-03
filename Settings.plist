@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>DefaultValue</key>
+		<string>https://login.proxy.bib.uottawa.ca/login?url=$@</string>
+		<key>Key</key>
+		<string>ezproxyurl</string>
+		<key>Title</key>
+		<string>EZProxy URL with $@ at its end</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+</array>
+</plist>
